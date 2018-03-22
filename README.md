@@ -1,4 +1,4 @@
-# Wafer2 微信小游戏快速开发 Demo - PHP
+# Wafer2 快速开发 Demo - PHP
 
 本仓库是最简版的 Wafer2 开发套件，建议配合腾讯云微信小程序（游戏）开发者工具解决方案一起使用。适用于想要使用 Wafer SDK 开发的开发者，Demo 对 SDK 进行了详细的使用和介绍，降低开发者的学习成本。
 
@@ -30,7 +30,7 @@
 
 下载并安装最新版本的[微信开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)，使用小程序绑定的微信号扫码登录开发者工具。
 
-![微信开发者工具](https://mc.qcloudimg.com/static/img/4fd45bb5c74eed92b031fbebf8600bd2/1.png)
+![微信开发者工具](https://main.qcloudimg.com/raw/bb57ee98c4ab67864303416fe9ab87f3.jpg)
 
 ### 三、下载 Demo
 
@@ -54,9 +54,9 @@
 
   > **注意：** 
   >
-  > 目录请选择 `quickstart` 根目录。包含有 `project.config.json`，请不要只选择 `client` 目录！
+  > 目录请选择 `wafer2-quickstart-php` 根目录。包含有 `project.config.json`，请不要只选择 `client` 目录！
 
-  ![上传代码](https://mc.qcloudimg.com/static/img/d5f3a4d68d4405b5a3a41f0e45bebc9c/2.png)
+  ![上传代码](https://main.qcloudimg.com/raw/0438de1b7d17918115926ac699cf09e6.png)
 
   ![开发者工具](https://mc.qcloudimg.com/static/img/dddafb0f88489d0de7010321e6b48071/3.png)
 
